@@ -25,12 +25,12 @@ resolution time-series, the observations don’t vary drastically over small tim
 The extracted data is arranged into four channels. Two channels are used for the data extracted from the past twelve days, and the other two channels
 contain data from the previous twelve same days of the week. Each channel has the shape of 6x7. The row of a any given channel contains the seven values belonging to any particular day.
 
-Below is the CNN architecture used
+Below is the CNN architecture used.
 
-![Architecture](arch.png)
+[ScreenShot](https://raw.githubusercontent.com/drishtadyumna/Multi-step-Load-forecasting-with-2d-CNNs/master/arch.png)
 
 Best are the results over a week from the test set, for Monday till Sunday. The fourth day, Thursday was a holiday.
 
-![Test results](result.png)
+[ScreenShot](https://raw.githubusercontent.com/drishtadyumna/Multi-step-Load-forecasting-with-2d-CNNs/master/result.png)
 
 	
