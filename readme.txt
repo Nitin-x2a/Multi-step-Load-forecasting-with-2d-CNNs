@@ -27,10 +27,10 @@ contain data from the previous twelve same days of the week. Each channel has th
 
 Below is the CNN architecture used.
 
-[ScreenShot](https://raw.githubusercontent.com/drishtadyumna/Multi-step-Load-forecasting-with-2d-CNNs/master/arch.png)
+![ScreenShot](https://raw.githubusercontent.com/drishtadyumna/Multi-step-Load-forecasting-with-2d-CNNs/master/arch.png)
 
 Best are the results over a week from the test set, for Monday till Sunday. The fourth day, Thursday was a holiday.
 
-[ScreenShot](https://raw.githubusercontent.com/drishtadyumna/Multi-step-Load-forecasting-with-2d-CNNs/master/result.png)
+![ScreenShot](https://raw.githubusercontent.com/drishtadyumna/Multi-step-Load-forecasting-with-2d-CNNs/master/result.png)
 
 	
