@@ -27,10 +27,10 @@ contain data from the previous twelve same days of the week. Each channel has th
 
 Below is the CNN architecture used
 
-![Screenshot](arch.png)
+![Alt text](arch.jpg?raw=true "Title")
 
 Best are the results over a week from the test set, for Monday till Sunday. The fourth day, Thursday was a holiday.
 
-![Screenshot](result.png)
+![Alt text](result.jpg?raw=true "Title")
 
 	
